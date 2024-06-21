@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hinazafar
-- 👀 I’m interested in Software Quality Assurance and Graphics Designing
-- 🌱 I’m currently learning advanced software testing tools (Manual/Automated). In parallel, i am working on a couple of graphics designes
+- 👀 I’m interested in React Development
+- 🌱 I’m currently learning advanced React.
 - 💞️ I’m looking forward to collaborate on above mentioned technologies' projects
 - 📫 You can easily reach me through my email address: hina.nida@gmail.com
 
