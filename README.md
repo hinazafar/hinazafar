@@ -30,6 +30,8 @@ A real-time clock application showcasing the local time in Pakistan, designed wi
 
 A task management tool that allows users to create, edit, and delete tasks, all managed through a state-of-the-art React application.
 
+Check out my projects on GitHub: https://github.com/hinazafar
+
 🌱 What I'm Currently Learning:
 
 I'm constantly learning and expanding my skill set, currently diving deeper into ASP.NET, MSSQL.
