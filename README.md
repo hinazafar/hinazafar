@@ -10,14 +10,17 @@ API Testing: Postman, REST Assured
 Performance Testing: JMeter
 CI/CD & Version Control: Jenkins, Git, GitHub
 💻 Notable Projects & Experience:
+
 1️⃣ Ecommerce Platform Testing:
 
 Conducted end-to-end testing of a large-scale eCommerce platform, ensuring seamless functionality, secure payment processing, and a bug-free shopping experience.
 Automated test cases using Selenium WebDriver and integrated them into CI/CD pipelines.
+
 2️⃣ Social Media App QA:
 
 Performed UI, API, and performance testing to ensure smooth user interactions, real-time notifications, and chat functionalities.
 Used JIRA for bug tracking and collaborated with developers to resolve issues efficiently.
+
 3️⃣ API & Backend Testing:
 
 Validated RESTful APIs using Postman and REST Assured, ensuring data integrity and optimal response times.
