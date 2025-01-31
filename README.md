@@ -9,6 +9,7 @@ Test Management & Bug Tracking: JIRA, TestRail
 API Testing: Postman, REST Assured
 Performance Testing: JMeter
 CI/CD & Version Control: Jenkins, Git, GitHub
+
 💻 Notable Projects & Experience:
 
 1️⃣ Ecommerce Platform Testing:
@@ -25,6 +26,7 @@ Used JIRA for bug tracking and collaborated with developers to resolve issues ef
 
 Validated RESTful APIs using Postman and REST Assured, ensuring data integrity and optimal response times.
 Conducted security and load testing for API endpoints.
+
 🌱 What I'm Currently Learning:
 I’m continuously enhancing my automation skills and currently exploring Playwright and AI-driven testing techniques.
 
